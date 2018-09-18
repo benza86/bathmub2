@@ -89,6 +89,14 @@
           "channel"
         ]
       },
+	         {
+        "title":"دوريات عربية",
+        "provider":"youtube",
+        "arguments":[
+          "UClE5zzddLBcBwD2n7RfnWmQ",
+          "channel"
+        ]
+      },  
 	    {
         "title":" تعليق انجليزي",
         "provider":"youtube",
