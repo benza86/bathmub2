@@ -82,13 +82,14 @@
         ]
       },  
 	        {
-        "title":"الاهداف و الملخصات",
+        "title":"2الاهداف و الملخصات",
         "provider":"youtube",
         "arguments":[
           "UCLT0U-qIpN71Nruvxg5jKhA",
           "channel"
         ]
       },  
+	
 	        {
         "title":"جميع الدوريات",
         "provider":"youtube",
@@ -113,15 +114,7 @@
           "channel"
         ]
       },  
-	    {
-        "title":" تعليق انجليزي",
-        "provider":"youtube",
-        "arguments":[
-          "UCQ8teRDg67faTu56c2l_IYA",
-          "channel"
-
-        ]
-      },
+	
 	            {
         "title":"ملخصات عربي",
         "provider":"youtube",
@@ -167,14 +160,7 @@
           "channel"
         ]
       },  
-	      {
-        "title":"مباريات  2",
-        "provider":"youtube",
-        "arguments":[
-          "UCP1cc6fUl_eVu114oZ75Qag",
-          "channel"
-        ]
-      },  
+	
 	     {
         "title":"مقتطفات",
         "provider":"youtube",
@@ -192,24 +178,10 @@
           "channel"
         ]
       },
-	       {
-        "title":"متابعات",
-        "provider":"youtube",
-        "arguments":[
-          "UCe9Wb6D8SQR0gyNfgNLZaiw",
-          "channel"
-        ]
-      },
-	        {
-        "title":"مونديال",
-        "provider":"youtube",
-        "arguments":[
-          "UC3_N5eFRpGNhW9VnwQlvQWg",
-          "channel"
-        ]
-      },
+	
+	 
 	          {
-        "title":"مونديال",
+        "title":"أخبار الرياضة",
         "provider":"youtube",
         "arguments":[
           "UC51TwW6evn4oWD8rPBZVynQ",
@@ -228,15 +200,7 @@
       },
 	    
 
-   {
-        "title":" ملخصات انجليزي",
-        "provider":"youtube",
-        "arguments":[
-          "UCnfTxMObW3nm-9faQzRGIig",
-          "channel"
-
-        ]
-      },
+ 
 	  
 	     
 	
@@ -254,15 +218,7 @@
 	    ,
 	  
 	  	  	
-	       {
-        "title":"المباريات الودية",
-        "provider":"youtube",
-        "arguments":[
-          "UCutIgEWpkJY9XiVrUmsyhtA",
-          "channel"
 
-        ]
-      },
 	    {
         "title":"ملخصات",
         "provider":"youtube",
@@ -285,15 +241,7 @@
 
         ]
       },
-	       {
-        "title":"Debrief résumé",
-        "provider":"youtube",
-        "arguments":[
-          "UC_kQdpdpTov-G4juDePL8ag",
-          "channel"
-
-        ]
-      },
+	
 	    
 	    {
         "title":"Foot Mercato",
@@ -314,15 +262,7 @@
 
         ]
       },
-	      {
-        "title":" تعليق انجليزي",
-        "provider":"youtube",
-        "arguments":[
-          "UCQ8teRDg67faTu56c2l_IYA",
-          "channel"
 
-        ]
-      },
 	
       {
               "title":"تعليق عربي",
