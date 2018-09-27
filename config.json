@@ -98,14 +98,7 @@
           "channel"
         ]
       },  
-	         {
-        "title":"ملخصات",
-        "provider":"youtube",
-        "arguments":[
-          "UCzC-ZsedZ4__1mwgHkYUJyg",
-          "channel"
-        ]
-      },
+	
 	         {
         "title":"دوريات عربية",
         "provider":"youtube",
