@@ -48,14 +48,7 @@
         ]
       },  
 	
-	        {
-        "title":"جميع الدوريات",
-        "provider":"youtube",
-        "arguments":[
-          "UC7C-kigODYM1DhEO14yKXAA",
-          "channel"
-        ]
-      },  
+
 	
 	         {
         "title":"دوريات عربية",
@@ -66,15 +59,7 @@
         ]
       },  
 	
-	            {
-        "title":"ملخصات عربي",
-        "provider":"youtube",
-        "arguments":[
-          "UCfZ0cC-UlXMVWQ6rCvP3dLw",
-          "channel"
-        ]
-      },  
-	    
+	
 	  	  	   {
         "title":"الدوري الاسباني",
         "provider":"youtube",
